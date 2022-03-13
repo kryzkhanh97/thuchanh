@@ -1,0 +1,2 @@
+# thuchanh
+Thuc hanh Git
